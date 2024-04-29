@@ -1,4 +1,4 @@
-# JonathanCherry.github.io
+# JonathanCherry
 Noah
 gu=ive me your cheryrs ols
 
