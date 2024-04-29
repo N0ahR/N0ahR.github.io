@@ -6,6 +6,7 @@ Noah's Website
 
 ![cherryyyy](https://i0.pickpik.com/photos/451/909/191/bing-cherries-ripe-red-fruit-preview.jpg)
 
-- [x] cherry
-- [x] othr cyerry
-- [x] cheryryyryry
+- [x] github acc
+- [x] new reposotory
+- [x] image
+- [x] cheryy
