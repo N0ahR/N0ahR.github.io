@@ -1,7 +1,7 @@
 # Noah's Website
 ### JonathanCherry's cherry webcherrysite
 #### ˏˋ°•*⁀➷ ˗ˏˋgu=ive me your cheryrs ols´ˎ˗.ೃ࿐
-## checklist
+## cherrylist
 - [x] github acc
 - [x] reposotory x2 N0ahR.github.io//
 - [x] image
