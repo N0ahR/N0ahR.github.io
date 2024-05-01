@@ -6,7 +6,7 @@
 - [x] reposotory x2 N0ahR.github.io//
 - [x] image
 - [x] cheryy
-- [x] link to hello world webpage
+- [x] link to hello cherry webpage
 - [x] colour and font to hello cherry page
 
 get cherry here
