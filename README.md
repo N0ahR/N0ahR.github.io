@@ -8,7 +8,7 @@
 - [x] cheryy
 - [x] link to hello cherry webpage
 - [x] colour and font to hello cherry page
-- [ ] new vherryage for the Rubric
+- [x] new vherryage for the Rubric
 - [ ] create 7 other cherrypages
 
 get cherry here
