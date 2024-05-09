@@ -14,4 +14,7 @@
 get cherry here
 [jonathancherry](https://n0ahr.github.io/jonathancherry/)
 
+get rubric real??
+[rubic](https://n0ahr.github.io/index.html/)
+
 ![cherryyyy](https://i0.pickpik.com/photos/451/909/191/bing-cherries-ripe-red-fruit-preview.jpg)
