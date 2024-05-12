@@ -2,6 +2,7 @@
 ### JonathanCherry's cherry webcherrysite
 #### ˏˋ°•*⁀➷ ˗ˏˋgu=ive me your cheryrs NOW´ˎ˗.ೃ࿐
 ## cherrylist
+- [x] FartingWizard
 - [x] github acc
 - [x] reposotory x2 N0ahR.github.io//
 - [x] image
