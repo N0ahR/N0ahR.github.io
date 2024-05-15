@@ -39,3 +39,9 @@ text-align:center;
   width: 100%;
   
 }
+body {
+  background-image: url('https://t3.ftcdn.net/jpg/06/08/14/28/360_F_608142882_G0nRuiKhZNM2G9T2Ujpg34JnPe3ZzJ6d.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
