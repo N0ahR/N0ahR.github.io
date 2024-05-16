@@ -33,9 +33,9 @@ p{
 text-size: 40px;
 }
 
-p{
-text-align:center;
-
+dl{
+background-color: white;
+  color:rgba(255, 0, 32, 0.5);
 }
 
 .center-justified {
