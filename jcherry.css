@@ -33,9 +33,10 @@ p{
 text-size: 40px;
 }
 
-dl{
+dt{
 background-color: white;
   color:rgba(255, 0, 32, 0.5);
+padding: 10px;
 }
 
 .center-justified {
