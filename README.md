@@ -10,10 +10,14 @@
 - [x] link to hello cherry webpage
 - [x] colour and font to hello cherry page
 - [x] new vherryage for the Rubric
-- [ ] create 7 other cherrypages
+- [x] create 7 other cherrypages
 
 get cherry here
 [jonathancherry](https://n0ahr.github.io/jonathancherry/)
+cherry photos reak??????????
+[cherry photos]([https://n0ahr.github.io/jonathancherry/](https://n0ahr.github.io/Cherry-Photos/))
+
+
 
 get rubric real??
 [rubric](https://n0ahr.github.io/index.html/)
